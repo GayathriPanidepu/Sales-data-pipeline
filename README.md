@@ -91,7 +91,7 @@ streamlit run dashboard/app.py
 
 ## 📬 Author
 
-**Your Name** – [Your LinkedIn or GitHub](https://github.com/your-username)
+**Gayathri Panidepu ** – [GitHub](https://github.com/GayathriPanidepu)
 
 ---
 
